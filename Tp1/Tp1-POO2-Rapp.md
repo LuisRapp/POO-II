@@ -19,7 +19,7 @@
 
 
 ### Sistema de Reservas de Vuelos
-![Sistema de Reservas de Vuelos](9-11.png)
+![Sistema de Reservas de Vuelos](aviones.png)
 
 
 
